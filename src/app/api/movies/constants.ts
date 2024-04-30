@@ -1,0 +1,1 @@
+export const watchListCollection = 'yourName-watchlist';
